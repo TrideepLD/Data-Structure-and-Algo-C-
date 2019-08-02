@@ -19,6 +19,6 @@ Example: char ch[] = "June";
 
 inputting values inside the brackets is a way to set how big a array is.
 
-Example ch[4] will make the array 4 spaces big.\n
-If in the array example above, ch[3], it would return an error as June is 4 spaces big and the array on holds up to 3 spaces.\n
+Example ch[4] will make the array 4 spaces big.<br />
+If in the array example above, ch[3], it would return an error as June is 4 spaces big and the array on holds up to 3 spaces.<br />
 Leaving it empty as show in the original example will make it as big as the input or the assigned value.
